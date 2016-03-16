@@ -22,11 +22,12 @@ This is a Powershell script to report on a list of server's disks space.  Unlike
 
 All environmental variables are self-explanatory in the script. If you wish for the report to send even when a threshold hasn't been triggered, just change the following:
 
-Currently: $i -gt 0
-Change to: $i -ge 0
+**Currently:** $i -gt 0
+<br>
+**Change to:** $i -ge 0
 
 
- ## Requirements ##
+## Requirements ##
 
  
 **Computer Targets** (Server or Desktop)
