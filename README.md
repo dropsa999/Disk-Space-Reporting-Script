@@ -13,7 +13,7 @@ This is a Powershell script to report on a list of server's disks space.  Unlike
 * Reports only disks on computers that have low disk space. (Can be changed to send a report regardless)
 * Thresholds can be set as required
 * Emails can be sent to individuals and / or distribution lists
-* Built-In cleanup of old files. Defaults to 7 days of reports but can be amended (Ensure this is placed in a location other than where the script is stored, otherwise it will delete the script)
+* Built-In cleanup of old files. Defaults to 7 days of reports but can be amended (Ensure reports are placed in a location other than where the script is stored, otherwise it will delete the script)
 * Separate text document used to list servers / desktops
 
 
