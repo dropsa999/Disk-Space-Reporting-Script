@@ -3,7 +3,7 @@
 This is a Powershell script to report on a list of server's disks space.  Unlike most reports out there, this one only reports on those disks that are below the set thresholds. The HTML report is embedded in the body of the email so no one will have to open an ugly CSV file.
 
 
- ![](Images/HTMLReport.png.png?raw=true)
+ ![](Images/HTMLReport.png?raw=true)
  
  
 ## Highlights ##
